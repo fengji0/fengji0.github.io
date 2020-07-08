@@ -1,7 +1,7 @@
 # Site settings
 title: MY site
 SEOTitle: fengji0|1001
-header-img: img/post-bg-desk.jpg
+header-img: img/img3.jpg
 email: fengji1001@gmail.com
 description: ""
 keyword: ""
@@ -12,14 +12,14 @@ github_repo: "https://github.com/fengji0/fengji0.github.io.git" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/avatar-m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-g.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:    
+zhihu_username:    风季
 github_username:    fengji0
 facebook_username: 
 jianshu_username:   
